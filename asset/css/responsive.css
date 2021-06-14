@@ -1,0 +1,5 @@
+@media screen and (max-width: 1100px) {
+  section .section_inner .content .flex2 {
+    flex: 100%;
+  }
+}

@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+@import "var.scss"; //공통변수
+@import "mixin.scss"; //공통mixin
+@import "initial.scss"; //css 초기화
+@import "component.scss"; //공통 컴포넌트
+@import "mainpage.scss"; //메인페이지 레이아웃
+@import "responsive.scss"; //반응형 레이아웃

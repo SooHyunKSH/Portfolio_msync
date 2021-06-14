@@ -1,0 +1,6 @@
+.main_container {
+  width: 100vw;
+  height: 100vh;
+  background: url("../img/main_visual_bg.jpg") no-repeat center center;
+  background-size: cover;
+}
