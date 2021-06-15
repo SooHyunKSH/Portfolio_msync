@@ -6,9 +6,4 @@ $(function(){
     $(".close").click(function(){
         $('.slide_menu').removeClass('on')
     });
-
-    $(window).load(function(){
-        $(".comtent_inner .text_box").addClass("active");
-        $(".comtent_inner .main_img").addClass("active");
-    })
-})
+});

@@ -1,3 +1,23 @@
+@media screen and (max-width: 1280px) {
+  .slide_menu {
+    header {
+      width: $min-width-1280;
+    }
+  }
+
+  .main_container {
+    .main_wrap {
+      width: $min-width-1280;
+    }
+  }
+
+  footer {
+    .footer_inner {
+      width: $min-width-1280;
+    }
+  }
+}
+
 @media screen and (max-width: 1100px) {
   .slide_menu {
     header {
@@ -214,6 +234,7 @@
           ul {
             li {
               a {
+                display: inline-block;
                 @include text-style-55;
               }
             }
